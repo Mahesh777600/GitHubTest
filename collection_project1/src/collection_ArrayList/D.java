@@ -6,4 +6,9 @@ public class D {
 		// TODO Auto-generated method stub
 		System.out.println("-------------------");
 	}
+	
+	public void m1() {
+		
+		System.out.println("Hello --------------------");
+	}
 }
